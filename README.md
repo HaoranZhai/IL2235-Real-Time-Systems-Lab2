@@ -3,7 +3,6 @@
 > **Course:** IL2235 Real-Time Systems  
 > **Institution:** KTH Royal Institute of Technology  
 > **Lab Topic:** Real-time scheduling, task priorities, and timing measurements  
-> **Author:** [Your Name]  
 > **Year:** 2026
 
 ---
